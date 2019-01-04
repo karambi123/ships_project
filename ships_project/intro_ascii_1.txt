@@ -1,0 +1,31 @@
+	
+			   _____ _     _        __          __            
+			  / ____| |   (_)       \ \        / /            
+			 | (___ | |__  _ _ __    \ \  /\  / /_ _ _ __ ___ 
+			  \___ \| '_ \| | '_ \    \ \/  \/ / _` | '__/ __|
+			  ____) | | | | | |_) |    \  /\  / (_| | |  \__ \
+			 |_____/|_| |_|_| .__/      \/  \/ \__,_|_|  |___/
+			                | |                               
+			                |_|                               
+ ___________________________________________________________________________________________________________________________
+\                                                                Created by Szymon Buksak & Mikolaj Herzberg                \
+/___________________________________________________________________________________________________________________________/
+
+                         .MMO.                                                                      
+                           .O                                                                       
+                            8..                                                                     
+                           ZMM.     ..   ...                                                        
+                         . .MM..  ..M+ . ?..                                                        
+                        ..MMMMM.   MMM. . ?.                                                        
+                        .MNMMM .....M7. I..                                                         
+                          MMMM. .MMMMMMMMM.                                                         
+                        ..MMMMMMM=MMMMMMMM,MMM7 . .                                               ..
+                    ...  MMMMMMMMMMMMMMMMM  MMM,NMMMM..... .M  ..,M... .                            
+  7MMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM 
+ .  MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM ..
+..MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM..  
+   .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM 
+ ___________________________________________________________________________________________________________________________
+\ #FAKE_LOADING.                                                                                                            \
+/___________________________________________________________________________________________________________________________/    
+
